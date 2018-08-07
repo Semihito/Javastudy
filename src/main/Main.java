@@ -11,13 +11,14 @@ package main;
  */
 public class Main {
     public static void main(String[] args) {
-        boolean tenki = false;
-        if(tenki == true) {
-            System.out.println("洗濯をします");
-            System.out.println("散歩に行きます");
-        }else{
-            System.out.println("DVDを見ます");
+        boolean doorClose = false;
+        int a =0;
+        while(doorClose == false&&a <= 10){
+            System.out.println("残念でした");
+            a = a +1;
+            
         }
     }
+ }
     
-}
+
