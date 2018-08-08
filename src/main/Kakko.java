@@ -7,7 +7,7 @@ package main;
 
 /**
  *
- * @author Administrator
+ * @Semihito
  */
 public class Kakko {
     public static void main(String[] args){      //mainに合わせる
