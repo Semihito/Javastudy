@@ -6,7 +6,6 @@
 package main;
 
 /**
- *
  * @Semihito
  */
 public class Kakko {
